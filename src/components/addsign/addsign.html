@@ -1,0 +1,10 @@
+<ion-row>
+    <ion-col col-12>
+        <div>
+            <img id="sign" [src]="signatureImage" *ngIf="signatureImage" />
+        </div>
+    </ion-col>
+    <ion-col col-12>
+        <button ion-button color="secondary" full (click)="presentPopover($event)">Add Signature</button>
+    </ion-col>
+</ion-row>

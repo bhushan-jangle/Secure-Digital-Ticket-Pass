@@ -1,0 +1,13 @@
+page-ticket {
+    .scroll-content {
+        background: url("../assets/imgs/background.jpg") no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+    }
+    h1 {
+        color: white;
+        font-size: 3em;
+        font-weight: bold;
+    }
+}

@@ -1,0 +1,39 @@
+//colors
+$black_50: rgba(0, 0, 0, 0.5);
+$white: white;
+
+page-login {
+    .scroll-content {
+        background: url("../assets/imgs/HomeScreen.jpg") no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+    }
+    .loginbox {
+        margin-top: 120px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 10px;
+        background: $black_50;
+        border-radius: 5px;
+        
+    }
+    .inp {
+        background: transparent;
+        color: $white;
+    }
+}
+
+.toast {
+    .toast-wrapper {
+        background: $black_50;
+        opacity: 0.8;
+        border-radius: 5px;
+        text-align: center;
+      }
+      .toast-message {
+        font-size: 2.0rem;
+        color: rgb(248, 66, 66);
+        font-weight: bolder;
+      }
+}

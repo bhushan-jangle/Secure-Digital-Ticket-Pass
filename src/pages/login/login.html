@@ -1,0 +1,26 @@
+<ion-content>
+  <div class="loginbox">
+    <ion-grid>
+      <ion-row>
+        <ion-col>
+          <ion-item class="inp">
+            <ion-label floating>Username</ion-label>
+            <ion-input type="text" name="username" [(ngModel)]="data.username" required></ion-input>
+          </ion-item>
+          <ion-item class="inp">
+            <ion-label floating>Password</ion-label>
+            <ion-input type="password" name="password" [(ngModel)]="data.password" required></ion-input>
+          </ion-item>
+        </ion-col>
+      </ion-row>
+      <br>
+      <br>
+      <ion-row>
+        <ion-col offset-3 col-6>
+          <button ion-button round block (click)="submit()" [disabled]="!(data.password&&data.username)">Login</button>
+        </ion-col>
+      </ion-row>
+      <button ion-button clear full color="light" [navPush]="pushPage">Don't have an account? Sign up</button>
+    </ion-grid>
+  </div>
+</ion-content>
