@@ -1,0 +1,8 @@
+{
+  "name": "beta",
+  "app_id": "ce4573c5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
