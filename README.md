@@ -1,5 +1,6 @@
 # Smart India Hackathon 2K18 (Government Of Delhi)
-Project represented at Smart India Hackathon 2K18
+Project represented at Smart India Hackathon 2K18.
+
 The Mobile Application for Secure Digital Ticket Passes using QR code Technology
 # rajasthan-hackathon-5.0
 Project represented at Rajasthan Hackathon #5.0 2K18
