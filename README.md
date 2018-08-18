@@ -25,4 +25,4 @@ You can also register as a new user.
 
 ### Graphical User Interface:
 
-![alt text](E:\Secure Digital Ticket Pass Apis\presentation\Screenshots "Start Page")
+![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(144).png "Start Page")
