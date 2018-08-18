@@ -1,8 +1,8 @@
-# Smart-India-Hackathon-2K18 (Government Of Delhi)
+## Smart-India-Hackathon-2K18 (Government Of Delhi)
 Project represented at Smart India Hackathon 2K18.
 
 The Mobile Application for Secure Digital Ticket Passes using QR code Technology
-# Rajasthan-Hackathon-5.0
+## Rajasthan-Hackathon-5.0
 Project represented at Rajasthan Hackathon #5.0 2K18
 
 ### Username - waff
@@ -21,7 +21,7 @@ You can also register as a new user.
 1. [Digital-Pass](https://drive.google.com/drive/folders/1wkyEGbc53Mw5lfnl9WlZB9h3CMu4vw8_)
 2. [Pass-Scanner](https://drive.google.com/drive/folders/1wkyEGbc53Mw5lfnl9WlZB9h3CMu4vw8_)
 
-### Presented By Team WaffWaff.
+## Presented By Team WaffWaff.
 
 ## 1] Solution Approach
 
@@ -58,3 +58,9 @@ You can also register as a new user.
 ## 9] Our Solution and Extensions
 ![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(155).png)
 
+# Contributor
+
+- Rohit Tidke. UI-Developer using Ionic Framework [Github Profile](https://github.com/rohitidke)
+- Bhushan Jangle. Back-End Developer using Nodejs-Express [Github Profile](https://github.com/waffwaff1)
+
+If there is any bug in the project, please feel free to comment below. If any error occurs while cloning and deploying, then contact me through mail at [bhushanajangle@gmail.com](https://mail.google.com/mail/u/0/#inbox)
