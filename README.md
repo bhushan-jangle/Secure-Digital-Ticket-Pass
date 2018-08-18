@@ -23,6 +23,38 @@ You can also register as a new user.
 
 ### Presented By Team WaffWaff.
 
-### Graphical User Interface:
+## 1] Solution Approach
 
-![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(144).png "Start Page")
+![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(144).png)
+
+## 2] User Experience-Passenger
+![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(145).png)
+
+![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(146).png)
+
+## 2] User Experience-Passenger
+![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(147).png)
+
+## 3] Our Approach and Implementation
+![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(148).png)
+
+## 4] Applying for Student-Pass
+![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(149).png)
+
+## 5] Pass Generation and Verification
+![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(150).png)
+
+## 6] Point to Point Ticket
+![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(151).png)
+
+## 7] Report Generation
+![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(152).png)
+
+![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(153).png)
+
+## 8] Financial Payment Report
+![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(154).png)
+
+## 9] Our Solution and Extensions
+![alt text](https://github.com/waffwaff1/Secure-Digital-Ticket-Pass/blob/master/Screenshots/Screenshot%20(155).png)
+
