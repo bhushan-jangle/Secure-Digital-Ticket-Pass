@@ -17,6 +17,8 @@ import { ToastController } from 'ionic-angular';
   selector: 'page-login',
   templateUrl: 'login.html',
 })
+
+// class for login
 export class LoginPage {
 
   data:any = {};
@@ -32,7 +34,8 @@ export class LoginPage {
   ionViewDidLoad() {
     console.log('ionViewDidLoad LoginPage');
   }
-
+  
+  // on submit, sending form data to NodeJs api for validating the user.
   submit() {
     let link = 'https://morning-temple-38654.herokuapp.com/users/login';
     let myData = JSON.stringify(this.data);
